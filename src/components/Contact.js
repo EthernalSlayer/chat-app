@@ -8,7 +8,7 @@ function Contact(props) {
             <img 
                 className="avatar"
                 src={props.avatar} 
-                alt="photo de profil"/>
+                alt="profil"/>
             <div>
                 <p className="name">{props.name}</p>
                 <div className="status">
